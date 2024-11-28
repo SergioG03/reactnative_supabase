@@ -1,0 +1,54 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos relacionados con Expo
+.expo/
+.expo-shared/
+
+# Configuración del entorno
+.env
+
+# Archivos relacionados con Metro
+cache/
+packager-cache/
+__generated__/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de logs y resultados
+logs/
+*.log
+*.pid
+*.seed
+*.csv
+
+# Build de React Native
+android/
+ios/
+
+# Caches específicas
+*.log
+*.lock
+*.tmp
+*.tmp.*
+
+# Archivo de cobertura
+coverage/
+
+# Otros
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
